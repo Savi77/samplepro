@@ -1,0 +1,23 @@
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(0,0,0,.05) !important;
+    }
+    .datatable-scroll-wrap {
+        overflow-x: unset !important;
+    }
+    #DataTables_Table_0_wrapper{
+        overflow-x: auto !important;
+    }
+    table{
+        border-top: 1px solid #dddddd !important;
+        border-bottom: 1px solid #dddddd !important;
+    }
+    .datatable-header {
+        border-bottom: none !important;
+    }  
+    .datatable-footer {
+        border-top: none !important;
+    }
+    
+    
+
+
